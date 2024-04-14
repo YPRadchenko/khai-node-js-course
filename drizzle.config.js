@@ -9,4 +9,4 @@ export default {
         password: 'my_password',
         database: 'nodejs_course_database',
     },
-};
+ };
